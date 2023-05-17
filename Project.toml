@@ -1,0 +1,4 @@
+name = "ClimaPackageTemplates"
+uuid = "6fb1eaec-621a-4575-9b80-70ca78af2f04"
+authors = ["Charles Kawczynski <kawczynski.charles@gmail.com>"]
+version = "0.1.0"
